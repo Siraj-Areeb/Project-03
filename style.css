@@ -1,5 +1,6 @@
 body{
     margin: -8px;
+    overflow-x: hidden;
 }
 
 .container{
@@ -57,7 +58,7 @@ body{
 .bottom>img{
     background-position: bottom;
     background-size: cover;
-    width: 104.5vw;
+    width: 107vw;
     position: relative;
     top: 15px;
 }
