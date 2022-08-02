@@ -9,7 +9,7 @@ Hands-on Experience:
   - Absolute
 - Background styling
   - Background color
-  - backgroung image
+  - Background image
 - Google-fonts insertion
 
 ![final](final.png)
